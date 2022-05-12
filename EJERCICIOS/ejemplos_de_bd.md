@@ -5,3 +5,4 @@ en la actualidad, la version modificada de SQL ofrece una flexivilidad a los usu
 
 Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
 la base de datos es SQL Y LOS GESTORES  pueden ser  MySQL,  PostgreSQL, Sqlite, Firebird
+no relaciones, casandra, 
