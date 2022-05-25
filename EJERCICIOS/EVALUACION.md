@@ -55,4 +55,4 @@ constan de un título y una extensión.
 fecha, número de páginas y el número de ejemplares vendidos.
 
 
-https://www.db-fiddle.com/f/nyz8icwHhnPZSa43gwddt2/1
+https://www.db-fiddle.com/f/nyz8icwHhnPZSa43gwddt2/2
