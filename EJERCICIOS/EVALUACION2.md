@@ -70,6 +70,6 @@ Tienda de informática
 Modelo entidad/relación
 
 
-
+https://www.db-fiddle.com/f/hFDbQXLFVqQYS2gYGqUxUL/0
 
 Base de datos para MySQL
