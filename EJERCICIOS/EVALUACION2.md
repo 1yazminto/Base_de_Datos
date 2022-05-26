@@ -68,7 +68,7 @@ Tienda de informática
 
 
 Modelo entidad/relación
-
+![image](https://user-images.githubusercontent.com/103079658/170528110-7dfb1cde-b6ff-4ae5-a1dd-f8d61449e0e7.png)
 
 https://www.db-fiddle.com/f/hFDbQXLFVqQYS2gYGqUxUL/0
 
