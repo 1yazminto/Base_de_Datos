@@ -10,8 +10,10 @@ Ejercicio:
 5. delete
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
-3. chart
-4. varchart
+3. CHART.- CADENA DE CARACTERES DE LONGITUD FIJA
+4. VARCHART.- CADENA DE CARACTEES DE LONGITUD VRIABLE, ESTA SE ESPECIFICA 
+5. INT .- ENTERO
+6. 
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
