@@ -17,11 +17,10 @@ Ejercicio:
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-4. truncate.- borra el datos de forma parcial
-5. delete.- borra los datos y puede borrar la tabla
-
+4. truncate.- ELIMINA TODAS LAS FILAS DE LA TABLA
+5. delete.- BORRA UNA SERIE DE FILAS, ALAS QUE CUMPLAN UNA CONDICION
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-5. para determinar un solo valor
+5. PARA ESTABLECER A LOS CAMPOS QUE REQUERIMOS TENGAN DATOS QUE NO SE PUEDAN REPETIR
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 6. char.- cadena de caracteres fijos
@@ -29,10 +28,10 @@ Ejercicio:
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
-   s
+   ES UN LENGUAJE SSTANDAR E INTERACTVO DE ACCESO A BASES DE DATOS RELACIONALES
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
-    es una herramienta que nos ayuda con un diagrama 
+    ES UNA HERRAMIENTA DE EDITAR  DIAGRAMAS
 ## Práctica 5.
 ### Gestores de base de datos
 
@@ -47,8 +46,8 @@ Ejercicio:
 
 En un mapa conceptual presenta 3 gestores de bases de datos, sus características
 principales, las ventajas y desventajas. (valor 6)
-sql.-es una herramienta que 
-mysql.-
+
+mysql.-es una herramienta que se caracteriza por ser un editor visual
 
 ![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
 
