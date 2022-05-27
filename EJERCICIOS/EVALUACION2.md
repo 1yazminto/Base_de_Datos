@@ -65,6 +65,7 @@ Tienda de informática
 
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
+Captura de Pantalla 2022-05-27 a la(s) 9.02.20![imagen](https://user-images.githubusercontent.com/103079658/170715005-4fb98be3-2a52-4f9e-afe6-2126c2af72c1.png)
 
 
 
