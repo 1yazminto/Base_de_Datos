@@ -29,7 +29,8 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
-![Captura de Pantalla 2022-06-01 a la(s) 9 03 06](https://user-images.githubusercontent.com/103079658/171423398-3eaea289-8067-4a87-b58c-c0c35f170d5d.png)
+![Captura de Pantalla 2022-06-01 a la(s) 12 44 13](https://user-images.githubusercontent.com/103079658/171469289-8d269bca-3bc9-48fc-8bf1-c429d03816a5.png)
+
 https://www.db-fiddle.com/f/9HUEjUwnHk32tD8v2B88yJ/2
 
 https://www.db-fiddle.com/f/9HUEjUwnHk32tD8v2B88yJ/3
