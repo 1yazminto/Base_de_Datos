@@ -8,6 +8,7 @@ su esquema
 Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
+2. ES UN SISTEMA QUE AGREGA Y TOMA INFORMACION DE DIFERENTES FUENTES EN UN ALMACEN
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
