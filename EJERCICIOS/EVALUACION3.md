@@ -11,8 +11,10 @@ Ejercicio:
 2. ES UN SISTEMA QUE AGREGA Y TOMA INFORMACION DE DIFERENTES FUENTES EN UN ALMACEN
 
 2. Realiza un diseño del modelo en estrella (valor 2)
+![imagen](https://user-images.githubusercontent.com/103079658/171660833-89c38bb2-166c-4b0d-aae4-fa2a98f7e736.png)
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+![imagen](https://user-images.githubusercontent.com/103079658/171660728-e3ef720b-df2d-44aa-b65b-728695ec4e87.png)
 
 
 ## Práctica 7
