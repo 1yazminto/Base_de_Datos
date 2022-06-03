@@ -4,34 +4,44 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
-2. insert,
-3. select
-4. upgrade
-5. delete
+
+insert
+select
+upgrade
+delete
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
-3. CHART.- CADENA DE CARACTERES DE LONGITUD FIJA
-4. VARCHART.- CADENA DE CARACTEES DE LONGITUD VRIABLE, ESTA SE ESPECIFICA 
-5. INT .- ENTERO
-6. 
+
+
+CHART.- CADENA DE CARACTERES DE LONGITUD FIJA
+VARCHART.- CADENA DE CARACTEES DE LONGITUD VRIABLE, ESTA SE ESPECIFICA 
+INT .- ENTERO
+ 
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
-4. truncate.- ELIMINA TODAS LAS FILAS DE LA TABLA
-5. delete.- BORRA UNA SERIE DE FILAS, ALAS QUE CUMPLAN UNA CONDICION
-4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
-5. PARA ESTABLECER A LOS CAMPOS QUE REQUERIMOS TENGAN DATOS QUE NO SE PUEDAN REPETIR
+ 
+truncate.- ELIMINA TODAS LAS FILAS DE LA TABLA
+delete.- BORRA UNA SERIE DE FILAS, ALAS QUE CUMPLAN UNA CONDICION
+
+7. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+ 
+ PARA ESTABLECER A LOS CAMPOS QUE REQUERIMOS TENGAN DATOS QUE NO SE PUEDAN REPETIR
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
-6. char.- cadena de caracteres fijos
-7. varchar.- cadena de caracteres variables le damos el dato nosotros
+
+char.- cadena de caracteres fijos
+varchar.- cadena de caracteres variables le damos el dato nosotros
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
+
    ES UN LENGUAJE SSTANDAR E INTERACTVO DE ACCESO A BASES DE DATOS RELACIONALES
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
     ES UNA HERRAMIENTA DE EDITAR  DIAGRAMAS
+    
 ## Práctica 5.
 ### Gestores de base de datos
 
