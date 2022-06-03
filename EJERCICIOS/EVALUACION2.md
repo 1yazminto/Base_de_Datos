@@ -72,6 +72,5 @@ Captura de Pantalla 2022-05-27 a la(s) 9.02.20![imagen](https://user-images.gith
 Modelo entidad/relación
 ![image](https://user-images.githubusercontent.com/103079658/170528110-7dfb1cde-b6ff-4ae5-a1dd-f8d61449e0e7.png)
 
-
-https://www.db-fiddle.com/f/94Wb9kUzGiD4FRs74Zn2DU/2
+https://www.db-fiddle.com/f/94Wb9kUzGiD4FRs74Zn2DU/0
 Base de datos para MySQL
