@@ -60,6 +60,7 @@ principales, las ventajas y desventajas. (valor 6)
 mysql.-es una herramienta que se caracteriza por ser un editor visual
 
 ![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
+Captura de Pantalla 2022-05-27 a la(s) 9.02.20![imagen](https://user-images.githubusercontent.com/103079658/170715005-4fb98be3-2a52-4f9e-afe6-2126c2af72c1.png)
 
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
@@ -75,12 +76,12 @@ Tienda de informática
 
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 
-Captura de Pantalla 2022-05-27 a la(s) 9.02.20![imagen](https://user-images.githubusercontent.com/103079658/170715005-4fb98be3-2a52-4f9e-afe6-2126c2af72c1.png)
+
 
 
 
 Modelo entidad/relación
 ![image](https://user-images.githubusercontent.com/103079658/170528110-7dfb1cde-b6ff-4ae5-a1dd-f8d61449e0e7.png)
 
-https://www.db-fiddle.com/f/94Wb9kUzGiD4FRs74Zn2DU/0
+https://www.db-fiddle.com/f/2hMaUMjDcKa4ykahn8Rngg/0
 Base de datos para MySQL
