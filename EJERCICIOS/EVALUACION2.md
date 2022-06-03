@@ -14,7 +14,9 @@ delete
 
 
 CHART.- CADENA DE CARACTERES DE LONGITUD FIJA
+
 VARCHART.- CADENA DE CARACTEES DE LONGITUD VRIABLE, ESTA SE ESPECIFICA 
+
 INT .- ENTERO
  
 
@@ -22,6 +24,7 @@ INT .- ENTERO
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
  
 truncate.- ELIMINA TODAS LAS FILAS DE LA TABLA
+
 delete.- BORRA UNA SERIE DE FILAS, ALAS QUE CUMPLAN UNA CONDICION
 
 7. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
@@ -31,6 +34,7 @@ delete.- BORRA UNA SERIE DE FILAS, ALAS QUE CUMPLAN UNA CONDICION
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
 char.- cadena de caracteres fijos
+
 varchar.- cadena de caracteres variables le damos el dato nosotros
 
 
