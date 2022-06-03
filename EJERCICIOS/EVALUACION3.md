@@ -44,6 +44,13 @@ https://www.db-fiddle.com/f/94Wb9kUzGiD4FRs74Zn2DU/3
 ## Práctica 8.
 ### Disparadores (Triggers)
 
+  PREGUNTAS:
+  
+  1.- QUE ES UN TRIGGERS
+  2.- CUAL ES LA FUNCION DE UN TRIGGERS
+  3.-CUALES SON LOS ESCENARIOS DE USO DE UN TRIGGERS
+  4.- CUANDO SE PUEDE USAR UN TRIGGERS
+
 Objetivo: Demostrar las operaciones que se realizan en una base de datos.
 
 Ejercicio: Crea una base de datos llamada test que contenga una tabla llamada
