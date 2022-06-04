@@ -85,7 +85,7 @@ Tienda de informática
 
 
 
-Modelo entidad/relación
+Modelo entidad/relación.
 
 ![Captura de Pantalla 2022-06-03 a la(s) 12 49 43](https://user-images.githubusercontent.com/103079658/171919050-b544ba4e-9bda-441f-8427-102276eb09c5.png)
 
