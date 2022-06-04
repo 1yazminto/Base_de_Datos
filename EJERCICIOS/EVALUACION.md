@@ -73,6 +73,6 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 ![Captura de Pantalla 2022-06-03 a la(s) 18 19 46](https://user-images.githubusercontent.com/103079658/171965987-4962f349-bb2f-492e-b932-8e78e531efb0.png)
 
-https://www.db-fiddle.com/f/cTToWBaovenzee3ZeHXw63/0
+
 
 https://www.db-fiddle.com/f/nyz8icwHhnPZSa43gwddt2/13
